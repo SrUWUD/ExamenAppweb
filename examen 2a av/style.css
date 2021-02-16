@@ -1,0 +1,38 @@
+a.Criptomonedas{
+    position: relative;
+    left: 750px;
+}
+
+body{
+    background-color: pink;
+}
+
+a.movimiento{
+    position: absolute;
+    left: 1200px;
+}
+
+a.movimiento2{
+    position: absolute;
+    left: 1000px;
+    background-color: white;
+    top: 250px;
+}
+
+a.movimiento3{
+    position: absolute;
+    left: 250px;
+    top: 400px;
+}
+p.parrafo1{
+    background-color: yellow;
+    text-align: center;
+    margin-top: 700px;
+}
+#monedas{
+    color: red;
+}
+p.parrafo2{
+    background-color: yellow;
+    text-align: center;
+}
